@@ -1,4 +1,4 @@
-package com.nova;
+package com.nova.resource;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
